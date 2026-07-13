@@ -23,10 +23,8 @@ function Hero() {
                                 <button className="primary">View My Projects</button>
                             </a>
 
-                            <a href="#contact">
-                               <button className="secondary">
-                                   Contact Me
-                               </button>
+                            <a href="/Chinelo_Martha_CV.pdf" download>
+                               <button className="secondary">Download CV</button>
                            </a>
                 </div>
       </div>

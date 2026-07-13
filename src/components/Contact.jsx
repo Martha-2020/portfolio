@@ -89,6 +89,17 @@ function Contact() {
                 GitHub
               </a>
             </p>
+
+              <p>
+                𝕏{" "}
+                <a
+                  href="https://x.com/Raidingnow"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  @Raidingnow
+                </a>
+              </p>
         </div>
       </div>
     </section>

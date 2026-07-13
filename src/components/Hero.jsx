@@ -23,9 +23,9 @@ function Hero() {
                                 <button className="primary">View My Projects</button>
                             </a>
 
-                            <a href="/Chinelo_Martha_CV.pdf" download>
-                               <button className="secondary">Download CV</button>
-                           </a>
+                            <a href="/Chinelo-CV.jpeg" target="_blank" rel="noopener noreferrer">
+                              <button className="secondary">Download CV</button>
+                            </a>
                 </div>
       </div>
 

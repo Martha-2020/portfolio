@@ -68,36 +68,45 @@ function Contact() {
         </form>
 
         <div className="contact-info">
-          <p>
-              💼{" "}
-              <a
-                href="https://www.linkedin.com/in/chinelo-ozoani"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                LinkedIn
-              </a>
-            </p>
-
-            <p>
-              🐙{" "}
-              <a
-                href="https://github.com/Martha-2020"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                GitHub
-              </a>
-            </p>
+              <p>
+                📧 <a href="mailto:ozomartha@gmail.com">
+                  ozomartha@gmail.com
+                </a>
+              </p>
 
               <p>
-                𝕏{" "}
-                <a
-                  href="https://x.com/Raidingnow"
+                📞 <a href="tel:+2348160821575">
+                  +234 816 082 1575
+                </a>
+              </p>
+
+              <p>
+                💼 <a
+                  href="https://www.linkedin.com/in/chinelo-ozoani"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noreferrer"
                 >
-                  @Raidingnow
+                  LinkedIn
+                </a>
+              </p>
+
+              <p>
+                🐙 <a
+                  href="https://github.com/Martha-2020"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  GitHub
+                </a>
+              </p>
+
+              <p>
+                🌐 <a
+                  href="https://chinelomartha.vercel.app"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Portfolio
                 </a>
               </p>
         </div>

@@ -12,7 +12,7 @@ function Projects(){
     description: "A responsive food ordering website built with React.",
     technologies: ["React", "CSS", "JavaScript"],
     github: "https://github.com/Martha-2020/chuks-kitchen",
-    live: "https://chuks-kitchen-cyan.vercel.app/",
+    live: "https://chuks-kitchen-mr36.vercel.app/",
   },
 
   {
